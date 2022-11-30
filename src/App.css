@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: black;
+  color: white;
 }
 
 .App-link {
@@ -43,5 +43,5 @@ body {
   justify-content: center;
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: gray;
+  background-color: white;
 }
